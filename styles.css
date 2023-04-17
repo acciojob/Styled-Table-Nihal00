@@ -1,1 +1,11 @@
-/* your code */
+thead {
+	background-color: blue;
+}
+
+tr, td, th {
+	padding: 10px;
+}
+
+.shad {
+	background-color: #888888;
+}
